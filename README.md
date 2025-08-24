@@ -457,7 +457,7 @@ CMD ["streamlit", "run", "Home.py", "--server.address", "0.0.0.0"]
 ### **Development Workflow**
 ```bash
 # Fork the repository
-git clone https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon.git
+git clone https://github.com/ArpitSaraswat7/orbital.vision.git
 cd HackByte_Dataset
 
 # Create feature branch
@@ -505,8 +505,8 @@ Space-critical object detection using YOLOv8 and DeepSORT
 
 ## 📞 Contact & Support
 
-- **Project Repository**: [Build-with-India-Space-Station-Hackathon](https://github.com/ArpitSaraswat7/orbital.vision)
-- **Developer**: [Aditya Naulakha](https://github.com/ArpitSaraswat7)
+- **Project Repository**: [orbital.vision](https://github.com/ArpitSaraswat7/orbital.vision)
+- **Developer**: [Arpit saraswat](https://github.com/ArpitSaraswat7)
 - **Issues & Support**: [GitHub Issues](https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon/issues)
 
 ---
@@ -514,6 +514,7 @@ Space-critical object detection using YOLOv8 and DeepSORT
 **🚀 Built with ❤️ for BuildwithDelhi 2.0, 2025 🚀**
 
 *Empowering real-time object detection for space-critical equipment monitoring through advanced AI*
-
+[![Follow](https://img.shields.io/github/followers/ArpitSaraswat7?style=social)](https://github.com/ArpitSaraswat7)
+[![Star](https://img.shields.io/github/stars/ArpitSaraswat7/Orbital-Vision?style=social)](https://github.com/ArpitSaraswat7/Orbital-Vision)
 
 </div>
