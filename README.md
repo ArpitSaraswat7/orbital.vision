@@ -505,8 +505,8 @@ Space-critical object detection using YOLOv8 and DeepSORT
 
 ## 📞 Contact & Support
 
-- **Project Repository**: [Build-with-India-Space-Station-Hackathon](https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon)
-- **Developer**: [Aditya Naulakha](https://github.com/adityanaulakha)
+- **Project Repository**: [Build-with-India-Space-Station-Hackathon](https://github.com/ArpitSaraswat7/orbital.vision)
+- **Developer**: [Aditya Naulakha](https://github.com/ArpitSaraswat7)
 - **Issues & Support**: [GitHub Issues](https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon/issues)
 
 ---
@@ -515,8 +515,5 @@ Space-critical object detection using YOLOv8 and DeepSORT
 
 *Empowering real-time object detection for space-critical equipment monitoring through advanced AI*
 
-[![Follow](https://img.shields.io/github/followers/adityanaulakha?style=social)](https://github.com/adityanaulakha)
-[![Star](https://img.shields.io/github/stars/adityanaulakha/Build-with-India-Space-Station-Hackathon?style=social)](https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon)
-[![Forks](https://img.shields.io/github/forks/adityanaulakha/Build-with-India-Space-Station-Hackathon?style=social)](https://github.com/adityanaulakha/Build-with-India-Space-Station-Hackathon)
 
 </div>
